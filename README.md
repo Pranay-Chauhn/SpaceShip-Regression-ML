@@ -1,4 +1,5 @@
 Spaceship Titanic: Machine Learning Model for Passenger Survival Prediction
+
 This repository contains a machine learning project that predicts passenger survival for the Spaceship Titanic disaster. 
 Using a dataset that includes various features of passengers, this project explores data preprocessing, feature engineering, model building, and evaluation to predict whether passengers were "Transported" to another dimension.
 
